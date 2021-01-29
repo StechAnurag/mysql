@@ -29,3 +29,4 @@ BEGIN
 END
 
 call insert_users();
+-- insertion of 10000 users took 45sec approx.
